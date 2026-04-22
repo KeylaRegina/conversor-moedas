@@ -43,9 +43,7 @@ Este projeto vai além de um conversor simples:
 🔗 Acesse o projeto
 
 👉 Clique aqui para ver o projeto funcionando
-
-(Se ainda não tiver, depois você pode usar o GitHub Pages)
-
+](https://keylaregina.github.io/conversor-moedas/)
 
 
 
